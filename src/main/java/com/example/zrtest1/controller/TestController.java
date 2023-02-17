@@ -9,7 +9,7 @@ import javax.annotation.processing.Generated;
 public class TestController {
     @GetMapping("/test")
     public  String test(){
-        return "Hello Jenkins!2";
+        return "Hello Jenkins2!";
     }
 }
 
